@@ -36,6 +36,8 @@ int main()
 				if(c == 3){
 				}
 	return 0;
+getche();
 }
+
 
 
